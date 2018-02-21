@@ -1,6 +1,7 @@
 # Resource-List
 ### Optimize
 - [Audit LightHouse](https://github.com/GoogleChrome/lighthouse/blob/master/docs/readme.md#using-programmatically)
+- [HighScalability](https://highscalability.com)
 ### Algorithm
 - [Algorithm Book](http://goalkicker.com/AlgorithmsBook/)
 ### Artifical Intelegence
