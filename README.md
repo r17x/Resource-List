@@ -13,6 +13,7 @@
 - [Frontend CheatSheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [React + WP](https://medium.freecodecamp.org/how-to-build-react-apps-on-top-of-the-wordpress-rest-api-bcc632808025)
 - [Css Menu](https://freebiesupply.com/blog/css-menus/)
+- [Exploring ES2018](http://exploringjs.com/es2018-es2019/)
 ### System Administrator
 - [Spam Block](https://www.howtoforge.com/block_spam_at_mta_level_postfix)
 ### Information
