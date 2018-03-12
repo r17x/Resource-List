@@ -18,6 +18,7 @@
 - [Exploring ES2018](http://exploringjs.com/es2018-es2019/)
 ### System Administrator
 - [Spam Block](https://www.howtoforge.com/block_spam_at_mta_level_postfix)
+- [Funny&Crazy](https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
 ### Information
 - [IP Info - Change 8.8.8.8 To your IP](https://ipinfo.io/8.8.8.8/json)
 ### Programming
