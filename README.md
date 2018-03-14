@@ -6,7 +6,7 @@
 - [PWA Cache](https://jakearchibald.com/2014/offline-cookbook/#cache-network-race)
 ### Algorithm
 - [Algorithm Book](http://goalkicker.com/AlgorithmsBook/)
-### Artifical Intelegence
+### Artifical Intelligence
 - [Wit.ai](https://wit.ai/)
 ### HTML CSS
 - [Entities](https://brajeshwar.github.io/entities/)
