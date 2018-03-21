@@ -8,6 +8,9 @@
 - [Algorithm Book](http://goalkicker.com/AlgorithmsBook/)
 ### ESESEL
 - [testssl](https://testssl.sh/)
+- [Let's Encrpyt Tuts I](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
+- [Let's Encrpyt Tuts II](https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates)
+- [The Most Common OpenSSL Commands](https://www.sslshopper.com/article-most-common-openssl-commands.html)
 ### Artifical Intelligence
 - [Wit.ai](https://wit.ai/)
 ### HTML CSS
