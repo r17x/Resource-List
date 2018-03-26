@@ -1,4 +1,6 @@
 # Resource-List
+### Linux
+- [Best Environment Dev 2018](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
 ### Optimize
 - [Audit LightHouse](https://github.com/GoogleChrome/lighthouse/blob/master/docs/readme.md#using-programmatically)
 - [HighScalability](https://highscalability.com)
