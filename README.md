@@ -44,6 +44,7 @@
 ### UI|UX
 - [Hire By Google](https://www.producthunt.com/posts/hire-by-google)
 - [Design Cheat](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
+- [UX/Design Pattern](https://adele.uxpin.com/)
 ### Business
 - [Bplan](http://www.bplans.com/)
 ### DYOWR
