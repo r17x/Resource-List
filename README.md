@@ -1,4 +1,6 @@
 # Resource-List
+### PHP 
+- [Parallel Programming](https://www.sitepoint.com/parallel-programming-pthreads-php-fundamentals/)
 ### Linux
 - [Best Environment Dev 2018](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
 ### Python Tools
