@@ -8,6 +8,7 @@
 - [Best Environment Dev 2018](https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7)
 ### Python Tools
 - [Python](https://www.linuxsec.org/2018/04/tool-untuk-melakukan-subdomain-recon.html)
+- [Paralellism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
 ### Optimize
 - [Audit LightHouse](https://github.com/GoogleChrome/lighthouse/blob/master/docs/readme.md#using-programmatically)
 - [HighScalability](https://highscalability.com)
