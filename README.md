@@ -1,4 +1,7 @@
 # Resource-List
+### Wordpress
+- [CSS CheatShit1](http://www.wpbeginner.com/wp-themes/default-wordpress-generated-css-cheat-sheet-for-beginners/)
+- [CSS CheatShit2](https://digwp.com/2010/05/default-wordpress-css-styles-hooks/)
 ### PHP 
 - [Parallel Programming](https://www.sitepoint.com/parallel-programming-pthreads-php-fundamentals/)
 ### Linux
