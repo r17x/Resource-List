@@ -1,4 +1,6 @@
 # Resource-List
+### ReactJS
+- [Infinite Scroll Intersection Observer](https://scotch.io/tutorials/infinite-scroll-in-react-using-intersection-observer)
 ### Wordpress
 - [CSS CheatShit1](http://www.wpbeginner.com/wp-themes/default-wordpress-generated-css-cheat-sheet-for-beginners/)
 - [CSS CheatShit2](https://digwp.com/2010/05/default-wordpress-css-styles-hooks/)
